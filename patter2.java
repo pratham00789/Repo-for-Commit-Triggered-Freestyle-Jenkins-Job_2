@@ -4,6 +4,6 @@ public class patter2{
     System.out.println("hello sentence one ");
     System.out.println("sentence two");
     System.out.println("sentence three");
-
+    System.out.println("sentence four");
   }
 }
