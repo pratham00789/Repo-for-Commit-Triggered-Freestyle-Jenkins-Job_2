@@ -7,6 +7,7 @@ public class patter2{
     String name = "pratham kamble";
     System.out.println("Your name is " + name);
     System.out.println("Your name is " + name);
+    System.out.println("Your name is " + name);
   
   }
 }
