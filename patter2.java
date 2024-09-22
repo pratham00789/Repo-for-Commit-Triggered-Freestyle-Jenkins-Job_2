@@ -8,6 +8,6 @@ public class patter2{
     System.out.println("Your name is " + name);
     System.out.println("Your name is " + name);
     System.out.println("Your name is " + name);
-  
+    System.out.println("Your name is " + name);
   }
 }
