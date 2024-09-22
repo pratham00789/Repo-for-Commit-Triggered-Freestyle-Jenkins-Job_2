@@ -1,11 +1,11 @@
-import java.util.Scanner;
+// import java.util.Scanner;
 public class patter2{
 
   public static void main(String args[]){
-    Scanner sc = new Scanner(System.in);
+    // Scanner sc = new Scanner(System.in);
     System.out.println("Enter your name");
-    String name = sc.next();
-    System.out.println(name);
+    String name = "pratham kamble";
+    System.out.println("Your name is " + name);
   
   }
 }
